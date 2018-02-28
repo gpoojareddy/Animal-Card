@@ -1,0 +1,48 @@
+body {
+    border: 1px solid #C1C1C1FF;
+    box-shadow: 5px 5px 2px 1px #CAC7C7;
+    padding: 5px 20px 20px 20px;
+    margin: auto;
+    width: 300px;
+    height:665px;
+    }
+ 
+
+.image{
+   width: auto;
+   height: auto;
+  max-height: 300px;
+  max-weight: 200px;
+    border: 3px white;
+    margin: auto;
+    align-self: center;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.box1{
+  border: 1px solid rgba(156, 153, 153, 0.651);
+   width: 278px;
+   height
+   padding: 0px 10px 0px;
+
+}
+
+.box2{
+    border: 1px solid rgba(156, 153, 153, 0.651);
+    width: 258px;
+    padding: 0px 10px 0px;
+}
+.fact {
+   font-style: italic;
+ }
+
+span {
+   font-weight: bold;
+   font-size: 1em;
+ }
+
+ ul {
+   list-style: none;
+   padding: 0px;
+ }
